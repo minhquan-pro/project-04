@@ -714,6 +714,10 @@ a {
 	font-weight: 400;
 }
 
+.blog-item__more:hover {
+	text-decoration: underline;
+}
+
 /* Welcome */
 .welcome-body {
 	margin-top: 85px;
